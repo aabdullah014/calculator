@@ -1,3 +1,6 @@
+body{
+    background-color: rgb(250, 255, 226);
+}
 * { 
     margin: 3px;
     font-size: 40px;
@@ -29,4 +32,8 @@
     height: 8vh;
     text-align: center;
     vertical-align: middle;
+}
+
+.button:hover {
+    background: rgb(160, 160, 197);
 }
