@@ -1,0 +1,32 @@
+* { 
+    margin: 3px;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+#answer{
+    margin-bottom: 20px;
+    height: 12vh;
+    line-height: 150px;
+    font-size: 65px;
+    border-style: solid;
+    text-align: right;
+    vertical-align: middle;
+}
+#clear{
+    width: 200%
+}
+
+.container .row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button{
+    border-style: solid;
+    width:100%;
+    height: 8vh;
+    text-align: center;
+    vertical-align: middle;
+}
